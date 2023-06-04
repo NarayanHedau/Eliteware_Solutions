@@ -1,0 +1,14 @@
+{
+  "DEFAULT_INTERNAL_SERVER_ERROR": "Internal server error.",
+  "USER_ALREADY_EXIST": "User Already exist",
+  "USER_REGISTER_SUCCESSFULLY": "User registered successfully",
+  "EMAIL_OR_MOBILE_NUMBER_NOT_FOUND": "Email or Mobile number not found",
+  "USER_LOGIN_SUCCESSFULLY": "User has been logged in successfully",
+  "USER_FETCHED": "User fetched successfully",
+  "ITEM_CREATED": "Item created successfully",
+  "ITEM_FETCHED_SUCCESSFULLY": "Item has been fetched successfully",
+  "ITEM_DELETED": "Item has been Deleted successfully"
+
+
+
+}
